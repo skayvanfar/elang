@@ -1,0 +1,2 @@
+# elang
+a simple language
